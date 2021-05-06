@@ -32,5 +32,4 @@ function wrapAdjective(str="*") {
         return int;
     }
     return (((int - 9)) % 8)
-
 }
